@@ -1,0 +1,14 @@
+# Python Program #1
+
+
+full_name = "Brandt VanZant"
+pronouns = "he/him"
+
+favorite_movie = "My favorite movie is the Long Walk as of right now due to its message of brotherhood"
+favorite_food = "My favorite food is pizza because I enjoy eating a cheesy meal with some toppings on it."
+
+# Print the information
+print("Full Name:", full_name)
+print("Pronouns:", pronouns)
+print("favorite_movie")
+print("favorite_food")
