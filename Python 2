@@ -1,0 +1,15 @@
+#Python 2
+float1 = 4.6
+float2 = 2.5
+sum_result = float1 + float2
+print("Sum:", sum_result, "Type:", type(sum_result))
+
+int1 = 12
+int2 = 8
+difference_result = int1 - int2
+print("Difference:", difference_result, "Type:", type(difference_result))
+
+float3 = 10
+int3 = 8
+product_result = float3 * int3
+print("Product:", product_result, "Type:", type(product_result))
